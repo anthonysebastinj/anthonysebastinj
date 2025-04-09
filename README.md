@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I'm Tony,<br>For me, coding isn't just a skill — it's a daily grind, a craft, and a passion.<br>Let’s connect, collaborate, and create something meaningful. 🚀
+Hi there! I'm Tony, a code-obsessed night owl.<br>Let’s connect, collaborate, and create something meaningful. 🚀
 
 
 ## Socials:
