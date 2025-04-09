@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 Software Developer with a passion for creating dynamic web applications.<br>🌱 Currently exploring and building projects with the MERN stack (MongoDB, Express, React, Node.js).<br>💡 Always eager to learn new technologies and improve coding practices.<br>🔗 Let's collaborate on innovative and challenging projects!<br>
 
 
