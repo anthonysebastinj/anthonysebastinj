@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 Software Developer with a passion for creating dynamic web applications.<br>🌱 Currently exploring and building projects with the MERN stack (MongoDB, Express, React, Node.js).<br>💡 Always eager to learn new technologies and improve coding practices.<br>🔗 Let's collaborate on innovative and challenging projects!<br>
+Hi there! I'm Tony,<br>For me, coding isn't just a skill — it's a daily grind, a craft, and a passion.<br>Let’s connect, collaborate, and create something meaningful. 🚀
 
 
 ## Socials:
